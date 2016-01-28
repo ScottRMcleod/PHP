@@ -1,0 +1,27 @@
+DROP DATABASE IF EXISTS `testDB`;
+create database testDB;
+			use yourUsername;
+			DROP TABLE IF EXISTS `auth_users`;
+			create table auth_users( user_id int not null primary key auto_increment,
+						user_title varchar(20),
+						user_firstname varchar(30),
+						user_lastname varchar(30),
+						user_forumname varchar(75) unique not null, 
+						DOB_month date,
+						DOB_year date, 
+						DOB_day date,
+						user_address varchar(100),
+						user_city varchar(20),
+						user_state varchar(3),
+						user_country varchar(15),
+						user_post varchar(4),
+						user_password varchar(150),
+						user_admin varchar(1),
+						user_email varchar(100) unique not null,
+						user_comment text, 
+						user_since datetime,
+						user_signature text,
+						timestamp datetime default '0000-00-00 00:00:00'
+	not null,
+						user_image varchar(100)
+			);
