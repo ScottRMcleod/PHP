@@ -1,3 +1,7 @@
+Have you aver wanted to build your Database in a quick method? 
+
+
+
 DROP DATABASE IF EXISTS `testDB`;
 create database testDB;
 			use yourUsername;
