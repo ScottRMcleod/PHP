@@ -1,4 +1,4 @@
-Have you ever wanted to build your Database in a quick method? 
+Easy way to deploy database with SQL 
 
 DROP DATABASE IF EXISTS `testDB`;
 create database testDB;
