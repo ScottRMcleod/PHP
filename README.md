@@ -5,7 +5,7 @@ located in this file are some examples of knowledge that i have obtained over th
 
 Please Feel Free to have a look around at some of the work i have completed in the past
 
-If you would like futher information on some of the projects i haqve completed 
+If you would like futher information on some of the projects i have completed 
 
 you can check out my website at www.smcleodtech.com.au
 
