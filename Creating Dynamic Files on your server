@@ -4,7 +4,7 @@
 function CreateHTML5_Page()
 {
 		//setup the file location on the server and assigns a file type 
-		//if you what a html extention all you have to do is change the .filetype e.g. .txt, .html , .csv, .doc
+		//if you want a html extention all you have to do is change the .filetype e.g. .txt, .html , .csv, .doc
 		$myFile = "myPage/index.php";
 		
 		//creates the file header variable called fh calls the fopen function passes is both the name of the file and calls the write switch
