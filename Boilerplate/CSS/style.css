@@ -1,1 +1,15 @@
+.thin-gray-border {
+    border-color: gray;
+    border-width: 10px;
+    border-style:thin;
+    border-radius: 50%;
+  }
 
+  .smaller-image {
+    width: 200px;
+}
+.footerh6{color:white;}
+
+.modal {
+	opacity:0.5;
+}
